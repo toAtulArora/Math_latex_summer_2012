@@ -1,0 +1,84 @@
+\documentclass[12pt]{article}
+% version = 1.00 of latexdemo.tex 2011 Feb 01
+
+% Atul Singh Arora
+% BS-MS 2016 | IISER Mohali
+% Summers, 2012
+% Math Project
+
+%I did not add this
+\usepackage{html}
+%for making the real number R symbol to work
+\usepackage{amsfonts}
+%for getting a pipe symbol to work
+\usepackage[T1]{fontenc}
+%for increasing usable page area
+\usepackage[margin=1.0in]{geometry}
+%for automatically skipping a line after each paragraph
+\usepackage[parfill]{parskip}
+%for using text within formulae
+\usepackage{amstext}
+%for inserting images
+\usepackage{graphicx}
+%for proper enumeration
+\usepackage{enumerate}
+
+\begin{document}
+
+
+
+\bibliographystyle{unsrt}  % define bibliography style
+
+
+
+\begin{center}
+\textsc{{\huge Symmetry | Exercises\\}
+Section 7 >> Abstract Symmetry: Group Operations\\
+\small SP Status\\}
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} Atul Singh Arora \end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} {\small July 2, 2012} \end{flushright}
+\end{minipage}
+\\
+\end{center}
+\hrule
+
+\vspace{12pt}
+
+% \textbf{The concept of poles:}
+Sir,\\
+This document is intended to contain solutions to exercises in Artin on Symmetry, from problem 7.3 onwards. Questions prior to those I'd done on paper hoping to meet you. However, there were certain problems I couldn't solve and I would discuss them as well in this document.
+\par
+The document henceforth would consist of the work I've done and understood. Things I haven't been able to understand, I would mark with a {\bf Doubt}, so that you can spot it easily and don't have to go through the entire text, while at the same time, providing you with the context so that you can reply accordingly.\\
+\hrule
+\vspace{12pt}
+
+\textsc {Problem 7.3  }  The symmetric group $S_{3}$ operates on two sets $U$ and $V$ of order 3. Decompose the product set $U\times V$ into orbits for the ``diagonal action'' $g(u,v)=(gu,gv)$, when
+\begin{enumerate} [{\bf (a)}]
+\item the operations on $U$ and $V$ are transitive,
+\item the operation on $U$ is transitive, the orbits for the operation on $V$ are ${v_{1}}$ and ${v_{2},v_{2}}$.
+\end{enumerate}
+\textsc {First Attempt } First we must understand how the symmetric group operates on sets $U$ and $V$. That is given to be transitive for case (a). We also must understand what properties of the ``symmetric'' group are being used.\\
+Let the elements of the symmetric group be represented by $j_{1},j_{2}..j_{6}$ (and not the conventional $x,y$ notation), and elements of the sets be $u_{1},u_{2},u_{3}$ and $v_{1},v_{2},v_{3}$ for $U$ and $V$ respectively.\\
+Since the operation of the symmetric group on both sets is transitive, $\Rightarrow \exists$
+\par
+\textsc {Second Attempt } First of all, since the symmetric group `operates' on the sets, therefore it must be of the type $G\times S \rightarrow S$. Now we investigate the effect of transitivity. For any given element in the set, the action of group will send that element to each element of the set. Question at this spot is: Are there more than one group element that map the said element to the same element? The answer is yes. Consider the action of the symmetric group on a set of 3 indices. The identity maps the first element to itself and so does swapping of the $2^{nd}$ and $3^{rd}$ indices.\\
+Now we think of stabilizers, and this is where the `symmetric' part of the word symmetric group may come into play as suggested by the example above. Stabilizers...
+\par
+\textsc {Third Attempt } Following from the second attempt, but realizing the following simple fact solves the first part (plaussibly i.e. | at the time of writing this!):\\
+Let the orbit of $U$ be $O_{U}$ and that of $V$ be $O_{V}$. Now $gu \in O_{U} \,\,\, \forall \,\, g \in G \text{  and  } u \in U$\\
+Similarly for $V$ $gv \in O_{V}$.\\NOTE that the transitivity property also tells us that the orbit is the set itself, i.e. $O_{U}=U$ and $O_{V}=V$ because orbits partition the set.\\
+Now for the product set $U\times V$ we have to first define orbits in the same manner and then find out how many orbits exist. The operation given is $g(u,v)=(gu,gv)$. Now pick any $u$ and $v$. $gu$ and $gv$ will form their respective orbits, i.e. sets $U$ and $V$.\\
+Assume the first orbit to be $O$. For more than one orbit to exist, we must show that it is possible to have for a given $(u,v) \in O$, $g(u,v) \notin O$ for some $g \in G$. We have to show that no such orbit exists.\\
+The task is now to define an $O$
+\par
+\textsc {Fourth Attempt | Pseudo Brute Force } Let the first set $U$ be that of indices ${1,2,3}$ and let $V=U$. Now let us first construct the Product Set $U\times V$. 
+\[ \left| \begin{array}{ccc}
+(1,1) & (2,1) & (3,1) \\
+(1,2) & (2,2) & (3,2) \\
+(1,3) & (2,3) & (3,3) \end{array} \right|\]
+It is now that the word ``diagonal action'' will start to make sense. Operate the first element, viz. $(1,1)$ with any element of $G$, the symmetric group. Since the groups are identical, their orbit will be the diagonal. But don't get too happy just now. This happened BECAUSE both elements were identical, not to mention the sets being identical. So this is a very special case. With the second element, viz. $(2,1)$, before actually multiplying with an element of $G$ and analyzing, here's an observation: If we multiply the element with the stabilizer of $1$ a few times (how many? depends on the stabilizer and the other element) we should be able to get $1$ at the other position. NO. That just won't happen, since $1$ is stabilized by the operations! So there is no way to retain $1$ while changing the other to one also. Similarly, if we allow $1$ to be changed in the second position and then try to fix it in the first, the same argument would ensure that it is impossible. Next the possibility of two different indices turning to $(1,1)$ can also be ruled out since the same operation $G$ of the symmetric group can't map two different indices to the same index, as its bijective. So analytically, its impossible for the element $(2,1)$ to intersect with diagonal, which we could also prove by noting that orbits are equivalent classes and hence disjoint.
+
+\end{document}

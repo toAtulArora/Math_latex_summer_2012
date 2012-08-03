@@ -1,0 +1,17 @@
+\begin{equation}
+f(n) = \left\{
+	\begin{array}
+	{l l}
+		n/2 &
+		\quad
+		\text {if $n$ is even}\\
+		-(n+1)/2
+		& \quad
+		\text {if $n$ is odd}\\
+		-(n+1)/2
+		& \quad
+		\text {if $n$ is odd}\\		
+	\end {array}
+	\right.
+\end{equation}
+

@@ -1,0 +1,43 @@
+\documentclass[12pt]{article}
+% version = 1.00 of latexdemo.tex 2011 Feb 01
+
+% Atul Singh Arora
+% BS-MS 2016 | IISER Mohali
+% Summers, 2012
+% Math Project
+
+%I did not add this
+\usepackage{html}
+%for making the real number R symbol to work
+\usepackage{amsfonts}
+%for getting a pipe symbol to work
+\usepackage[T1]{fontenc}
+%for increasing usable page area
+\usepackage[margin=0.5in]{geometry}
+%for automatically skipping a line after each paragraph
+\usepackage[parfill]{parskip}
+%for using text within formulae
+\usepackage{amstext}
+%for inserting images
+\usepackage{graphicx}
+%for proper enumeration
+\usepackage{enumerate}
+
+\begin{document}
+
+\begin{center}
+\textsc{{\huge Mathematics: Symmetry\\}
+Summer Project 2012\\
+\small Mentor: Prof. Kapil Hari Paranjpaye\\}
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} Atul Singh Arora \end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} {\small 28 $^th$ May 2012 till date} \end{flushright}
+\end{minipage}
+\\
+\end{center}
+\hrule
+This is to certify that Atul Singh Arora
+
+\end{document}

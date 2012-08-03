@@ -1,0 +1,81 @@
+This is C:\Program Files\MiKTeX 2.9\miktex\bin\makeindex.EXE, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+Scanning input file certification_for_working_at_IISER...
+!! Input index error (file = certification_for_working_at_IISER, line = 1):
+   -- Unknown index keyword \documentclass[12pt].
+!! Input index error (file = certification_for_working_at_IISER, line = 2):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 4):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 5):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 6):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 7):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 9):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 10):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = certification_for_working_at_IISER, line = 11):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 12):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = certification_for_working_at_IISER, line = 13):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 14):
+   -- Unknown index keyword \usepackage[T1].
+!! Input index error (file = certification_for_working_at_IISER, line = 15):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 16):
+   -- Unknown index keyword \usepackage[margin=0.5in].
+!! Input index error (file = certification_for_working_at_IISER, line = 17):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 18):
+   -- Unknown index keyword \usepackage[parfill].
+!! Input index error (file = certification_for_working_at_IISER, line = 19):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 20):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = certification_for_working_at_IISER, line = 21):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 22):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = certification_for_working_at_IISER, line = 23):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 24):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = certification_for_working_at_IISER, line = 26):
+   -- Unknown index keyword \begin.
+!! Input index error (file = certification_for_working_at_IISER, line = 28):
+   -- Unknown index keyword \begin.
+!! Input index error (file = certification_for_working_at_IISER, line = 29):
+   -- Unknown index keyword \textsc.
+!! Input index error (file = certification_for_working_at_IISER, line = 30):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 31):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 32):
+   -- Unknown index keyword \begin.
+!! Input index error (file = certification_for_working_at_IISER, line = 33):
+   -- Unknown index keyword \begin.
+!! Input index error (file = certification_for_working_at_IISER, line = 34):
+   -- Unknown index keyword \end.
+!! Input index error (file = certification_for_working_at_IISER, line = 35):
+   -- Unknown index keyword \begin.
+!! Input index error (file = certification_for_working_at_IISER, line = 36):
+   -- Unknown index keyword \begin.
+!! Input index error (file = certification_for_working_at_IISER, line = 37):
+   -- Unknown index keyword \end.
+!! Input index error (file = certification_for_working_at_IISER, line = 38):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 39):
+   -- Unknown index keyword \end.
+!! Input index error (file = certification_for_working_at_IISER, line = 40):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 41):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = certification_for_working_at_IISER, line = 43):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 38 rejected).
+Nothing written in certification_for_working_at_IISER.ind.
+Transcript written in certification_for_working_at_IISER.ilg.
