@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.8)  5 AUG 2012 23:55
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.8)  6 AUG 2012 01:05
 entering extended mode
 **C:/Users/A.S.Arora/Documents/IISER*2012/Summers/Math_latex/Combined/Chapter7.
 tex
@@ -338,15 +338,15 @@ out")
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
-* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* h-part:(L,W,R)=(43.36243pt, 527.57014pt, 43.36243pt)
+* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=542.02501pt
-* \textheight=722.7pt
-* \oddsidemargin=-36.135pt
-* \evensidemargin=-36.135pt
-* \topmargin=-73.135pt
+* \textwidth=527.57014pt
+* \textheight=708.24513pt
+* \oddsidemargin=-28.90756pt
+* \evensidemargin=-28.90756pt
+* \topmargin=-65.90756pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -434,11 +434,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 449.
 Here is how much of TeX's memory you used:
  6736 strings out of 494045
  94125 string characters out of 3148376
- 192254 words of memory out of 3000000
+ 190296 words of memory out of 3000000
  9920 multiletter control sequences out of 15000+200000
  19782 words of font info for 54 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,9n,32p,1236b,452s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,9n,32p,1236b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
 600\ecti1095.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
 knappen\ec\dpi600\ecbx1095.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fon
@@ -465,7 +465,7 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Chapter7.pdf (12 pages, 295954 bytes).
+Output written on Chapter7.pdf (12 pages, 296506 bytes).
 PDF statistics:
  511 PDF objects out of 1000 (max. 8388607)
  42 named destinations out of 1000 (max. 500000)
