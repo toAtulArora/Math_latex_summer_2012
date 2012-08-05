@@ -76,4 +76,3 @@ July 16-22, 2012 (Monday to Sunday)
 July 23-27, 2012 (Monday to Friday)
 *	Read & Typesetted till section 7.10
 *	Read section 7.11
---
