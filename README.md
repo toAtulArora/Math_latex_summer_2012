@@ -8,7 +8,7 @@ Worked on the project from May 28, 2012 to July 28, 2012
 DOWNLOAD
 --
 * Chapter 7 
-	* https://github.com/toatularora/Math_latex_summer_2012/blob/master/Combined/Symmetry_Question.pdf?raw=true
+	* https://github.com/toatularora/Math_latex_summer_2012/blob/master/Combined/Chapter7.pdf?raw=true
 * Chapter 6
 	* https://github.com/toatularora/Math_latex_summer_2012/blob/master/Combined/Chapter_6_Finite_Subgroups_of_The_Rotation_Group.pdf
 	* https://github.com/toatularora/Math_latex_summer_2012/blob/master/Combined/Chapter_6_continued_Finite_Subgroups_of_The_Rotation_Group.pdf?raw=true
