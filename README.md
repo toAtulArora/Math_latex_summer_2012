@@ -4,7 +4,7 @@ This repository contains all Latex documents and associated files for partial co
 
 Worked on the project from May 28, 2012 to July 28, 2012
 
---
+
 DOWNLOAD
 --
 * Chapter 7 
@@ -20,12 +20,12 @@ NOTE: You may need the "Chapter_6_images" folder for typesetting the Chapter 6 d
 UPDATE:
 A single document report will also be available soon.
 
---
+
 GET LATEX (WINDOWS)
 --
 http://knowledgepayback.blogspot.in/2012/07/latex-on-windows-with-sublime-text.html
 
---
+
 TIME LINE
 --
 TODO: Add the events from May 28 - July 25, 2012
@@ -76,3 +76,4 @@ July 16-22, 2012 (Monday to Sunday)
 July 23-27, 2012 (Monday to Friday)
 *	Read & Typesetted till section 7.10
 *	Read section 7.11
+--
