@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.8)  4 AUG 2012 17:59
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.8)  5 AUG 2012 07:27
 entering extended mode
-**C:/Users/A.S.Arora/Documents/IISER*2012/Summers/Math_latex/Chapter_7_More_Gro
-up_Theory/chapter7_july_8_to_13_then_july_23_24_26_2012.tex
+**C:/Users/A.S.Arora/Documents/IISER*2012/Summers/Math_latex/Combined/Chapter_6
+_continued_Finite_Subgroups_of_The_Rotation_Group.tex
 
-("C:/Users/A.S.Arora/Documents/IISER 2012/Summers/Math_latex/Chapter_7_More_Gro
-up_Theory/chapter7_july_8_to_13_then_july_23_24_26_2012.tex"
+("C:/Users/A.S.Arora/Documents/IISER 2012/Summers/Math_latex/Combined/Chapter_6
+_continued_Finite_Subgroups_of_The_Rotation_Group.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -229,89 +229,24 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 \@enLab=\toks18
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
-Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip44
-
-For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen117
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count110
-LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count111
-\leftroot@=\count112
-LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count113
-\DOTSCASE@=\count114
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen118
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count115
-\c@MaxMatrixCols=\count116
-\dotsspace@=\muskip11
-\c@parentequation=\count117
-\dspbrk@lvl=\count118
-\tag@help=\toks19
-\row@=\count119
-\column@=\count120
-\maxfields@=\count121
-\andhelp@=\toks20
-\eqnshift@=\dimen119
-\alignsep@=\dimen120
-\tagshift@=\dimen121
-\tagwidth@=\dimen122
-\totwidth@=\dimen123
-\lineht@=\dimen124
-\@envbody=\toks21
-\multlinegap=\skip45
-\multlinetaggap=\skip46
-\mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\classes\amsthm.sty"
-Package: amsthm 2004/08/06 v2.20
-\thm@style=\toks23
-\thm@bodyfont=\toks24
-\thm@headfont=\toks25
-\thm@notefont=\toks26
-\thm@headpunct=\toks27
-\thm@preskip=\skip47
-\thm@postskip=\skip48
-\thm@headsep=\skip49
-\dth@everypar=\toks28
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
-Package: amssymb 2009/06/22 v3.00
-)
-("C:\Users\A.S.Arora\Documents\IISER 2012\Summers\Math_latex\Chapter_7_More_Gro
-up_Theory\chapter7_july_8_to_13_then_july_23_24_26_2012.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-\AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 28.
+("C:\Users\A.S.Arora\Documents\IISER 2012\Summers\Math_latex\Combined\Chapter_6
+_continued_Finite_Subgroups_of_The_Rotation_Group.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+\AtBeginShipoutBox=\box26
+Package hyperref Info: Link coloring OFF on input line 26.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -319,16 +254,16 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count122
+\c@section@level=\count110
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 
-("C:\Users\A.S.Arora\Documents\IISER 2012\Summers\Math_latex\Chapter_7_More_Gro
-up_Theory\chapter7_july_8_to_13_then_july_23_24_26_2012.out")
-("C:\Users\A.S.Arora\Documents\IISER 2012\Summers\Math_latex\Chapter_7_More_Gro
-up_Theory\chapter7_july_8_to_13_then_july_23_24_26_2012.out")
+("C:\Users\A.S.Arora\Documents\IISER 2012\Summers\Math_latex\Combined\Chapter_6
+_continued_Finite_Subgroups_of_The_Rotation_Group.out")
+("C:\Users\A.S.Arora\Documents\IISER 2012\Summers\Math_latex\Combined\Chapter_6
+_continued_Finite_Subgroups_of_The_Rotation_Group.out")
 \@outlinefile=\write4
 
 *geometry* driver: auto-detecting
@@ -367,115 +302,145 @@ up_Theory\chapter7_july_8_to_13_then_july_23_24_26_2012.out")
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count123
-\scratchdimen=\dimen125
-\scratchbox=\box29
-\nofMPsegments=\count124
-\nofMParguments=\count125
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count126
-\MPscratchDim=\dimen126
-\MPnumerator=\count127
-\makeMPintoPDFobject=\count128
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count111
+\scratchdimen=\dimen117
+\scratchbox=\box27
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen118
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks20
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
  []
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+<Chapter_6_images/pentagon_wrong.jpg, id=37, 147.1899pt x 44.5665pt>
+File: Chapter_6_images/pentagon_wrong.jpg Graphic file (type jpg)
+
+<use Chapter_6_images/pentagon_wrong.jpg>
+Package pdftex.def Info: Chapter_6_images/pentagon_wrong.jpg used on input line
+ 128.
+(pdftex.def)             Requested size: 379.41585pt x 114.88136pt.
+
+<Chapter_6_images/pentagon_right.jpg, id=38, 147.1899pt x 40.4712pt>
+File: Chapter_6_images/pentagon_right.jpg Graphic file (type jpg)
+
+<use Chapter_6_images/pentagon_right.jpg>
+Package pdftex.def Info: Chapter_6_images/pentagon_right.jpg used on input line
+ 130.
+(pdftex.def)             Requested size: 379.41585pt x 104.32472pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
 
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+<Chapter_6_images/pentagon_rotations.jpg, id=39, 159.9576pt x 31.0761pt>
+File: Chapter_6_images/pentagon_rotations.jpg Graphic file (type jpg)
+
+<use Chapter_6_images/pentagon_rotations.jpg>
+Package pdftex.def Info: Chapter_6_images/pentagon_rotations.jpg used on input 
+line 141.
+(pdftex.def)             Requested size: 379.41585pt x 73.72063pt.
+ [3 <C:/Users/A.S.Arora/Documents/IISER 2012/Summers/Math_latex/Combined/Chapte
+r_6_images/pentagon_wrong.jpg> <C:/Users/A.S.Arora/Documents/IISER 2012/Summers
+/Math_latex/Combined/Chapter_6_images/pentagon_right.jpg> <C:/Users/A.S.Arora/D
+ocuments/IISER 2012/Summers/Math_latex/Combined/Chapter_6_images/pentagon_rotat
+ions.jpg>]
+<Chapter_6_images/square_rotations.jpg, id=44, 155.8623pt x 38.3031pt>
+File: Chapter_6_images/square_rotations.jpg Graphic file (type jpg)
+
+<use Chapter_6_images/square_rotations.jpg>
+Package pdftex.def Info: Chapter_6_images/square_rotations.jpg used on input li
+ne 146.
+(pdftex.def)             Requested size: 271.0125pt x 66.60884pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
+<Chapter_6_images/square_reflections.jpg, id=45, 111.7776pt x 101.178pt>
+File: Chapter_6_images/square_reflections.jpg Graphic file (type jpg)
+
+<use Chapter_6_images/square_reflections.jpg>
+Package pdftex.def Info: Chapter_6_images/square_reflections.jpg used on input 
+line 151.
+(pdftex.def)             Requested size: 216.80669pt x 196.26653pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
-[4] [5] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
-[8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 422--425
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
 
  []
 
-[10] [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 448.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 448.
+[4 <C:/Users/A.S.Arora/Documents/IISER 2012/Summers/Math_latex/Combined/Chapter
+_6_images/square_rotations.jpg> <C:/Users/A.S.Arora/Documents/IISER 2012/Summer
+s/Math_latex/Combined/Chapter_6_images/square_reflections.jpg>] [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
 
-("C:\Users\A.S.Arora\Documents\IISER 2012\Summers\Math_latex\Chapter_7_More_Gro
-up_Theory\chapter7_july_8_to_13_then_july_23_24_26_2012.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 448.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 448.
-Package rerunfilecheck Info: File `chapter7_july_8_to_13_then_july_23_24_26_201
-2.out' has not changed.
+("C:\Users\A.S.Arora\Documents\IISER 2012\Summers\Math_latex\Combined\Chapter_6
+_continued_Finite_Subgroups_of_The_Rotation_Group.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
+Package rerunfilecheck Info: File `Chapter_6_continued_Finite_Subgroups_of_The_
+Rotation_Group.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 448.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
  ) 
 Here is how much of TeX's memory you used:
- 6736 strings out of 494045
- 94852 string characters out of 3148376
- 191328 words of memory out of 3000000
- 9920 multiletter control sequences out of 15000+200000
- 19782 words of font info for 54 fonts, out of 3000000 for 9000
+ 5929 strings out of 494045
+ 86941 string characters out of 3148376
+ 179385 words of memory out of 3000000
+ 9148 multiletter control sequences out of 15000+200000
+ 15525 words of font info for 42 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,9n,32p,1292b,452s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,6n,32p,1465b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
-600\ecti1095.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
-knappen\ec\dpi600\ecbx1095.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\A.S.Arora\AppData\Local\
-MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\A.S.Arora\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc1200.pk> <C:\Us
-ers\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1
-200.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
-c\dpi600\ecrm1095.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.
-9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:\Users\A.S.Arora\AppData\L
-ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk> <C:\Users\A.S.A
-rora\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc2488.pk><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on chapter7_july_8_to_13_then_july_23_24_26_2012.pdf (12 pages, 
-293210 bytes).
+600\ecbx1200.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
+knappen\ec\dpi600\ecti1200.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\A.S.Arora\AppData\Local\
+MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\A.S.Arora\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Us
+ers\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1
+095.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
+c\dpi600\eccc1200.pk> <C:\Users\A.S.Arora\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\jknappen\ec\dpi600\eccc2488.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Chapter_6_continued_Finite_Subgroups_of_The_Rotation_Group.pd
+f (6 pages, 3296205 bytes).
 PDF statistics:
- 505 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 284 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
