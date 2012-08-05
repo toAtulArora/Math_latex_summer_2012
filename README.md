@@ -13,3 +13,8 @@ DOWNLOAD
 
 The corresponding LaTeX files are located in the same folder. 
 * You need the Chapter_6_images folder for typesetting this file.
+
+--
+GET LATEX (WINDOWS)
+--
+http://knowledgepayback.blogspot.in/2012/07/latex-on-windows-with-sublime-text.html
