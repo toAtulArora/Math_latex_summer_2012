@@ -7,12 +7,18 @@ Worked on the project from May 28, 2012 to July 28, 2012
 --
 DOWNLOAD
 --
-* Combined/Chapter_6_Subgroups_of_The_Rotation_Group.pdf
-* Combined/Chapter_6_continued_Subgroups_of_The_Rotation_Group.pdf
-  Combined/Chapter_7.pdf
+* Chapter 7 
+	* https://github.com/toatularora/Math_latex_summer_2012/blob/master/Combined/Symmetry_Question.pdf?raw=true
+* Chapter 6
+	* https://github.com/toatularora/Math_latex_summer_2012/blob/master/Combined/Chapter_6_Finite_Subgroups_of_The_Rotation_Group.pdf
+	* https://github.com/toatularora/Math_latex_summer_2012/blob/master/Combined/Chapter_6_continued_Finite_Subgroups_of_The_Rotation_Group.pdf?raw=true
+	* https://github.com/toatularora/Math_latex_summer_2012/blob/master/Combined/Symmetry_Question.pdf?raw=true
 
 The corresponding LaTeX files are located in the same folder. 
-* You need the Chapter_6_images folder for typesetting this file.
+NOTE: You may need the "Chapter_6_images" folder for typesetting the Chapter 6 document(s).
+
+UPDATE:
+A single document report will also be available soon.
 
 --
 GET LATEX (WINDOWS)
@@ -22,7 +28,7 @@ http://knowledgepayback.blogspot.in/2012/07/latex-on-windows-with-sublime-text.h
 --
 TIME LINE
 --
-<TODO: Add the events from May 28 - July 25, 2012>
+TODO: Add the events from May 28 - July 25, 2012
 
 June 26-30, 2012 (Tuesday, the day I returned till Saturday)
 {done on paper}
