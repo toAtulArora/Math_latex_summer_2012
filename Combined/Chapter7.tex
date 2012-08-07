@@ -369,11 +369,11 @@ x^{3}=1,\,y^{3}=1,\,z^{2}=1,\,xyz=1
 \end{equation*}
 Now following Artin, two questions arise.
 \begin{enumerate}
-\item Are these the defining relations for the group T? Which is the same as asking, is the group
+\item Are these the defining relations for the group $T$? Which is the same as asking, is the group
 \begin{equation*}
 <x,y,z|x^{3}=1,\,y^{3}=1,\,z^{2}=1,\,xyz=1>
 \end{equation*}
-isomorphic to the group T?
+isomorphic to the group $T$?
 \par
 The answer's yes according to the text. We'll find out how in the next section.
 \item {\small ({\bf Doubt} I don't understand the \emph {precise} meaning of the question)} How can one compute in a group ${\mathcal G} = <x_{1},...x_{n} | r_{1},...r_{k}>$ that's represented by generators and relations?
@@ -425,7 +425,43 @@ That motivates us to talk about the quotient group $\mathcal {G = F/R}$. From pr
 (This part has a little repetition, however that's necessary for the discussion as you'll soon discover) All relations $r_{i}$ in $\mathcal F$ (strictly speaking, by relation $r_{i}$ in $\mathcal F$ I mean the equivalence class corresponding to the reduced word of the relation, in $\mathcal F$), are mapped to the identity element $\mathcal G$ since its the quotient group $\mathcal {F/R}$. Further, since $\overline \varphi$ is a homomorphism, it maps identity to identity. Now the elements in $\mathcal F$ that are not in $\mathcal R$ but belong to the kernel of $\varphi$, will be mapped to their corresponding cosets in $\mathcal G$. So let $g_{\text{kernel}}$ be such an element in $\mathcal F$, then it is sent to its coset $g_{\text {kernel}}N$ in $\mathcal F$. Then it becomes quite natural to imagine what would happen if there weren't any such $g_{\text {kernel}}$, viz. kernel of $\overline \varphi = \{1\}$. Thus the map would be injective! (read Chapter 2 again if it doesn't sound obvious). So that proves part (3), since the only way kernel of $\overline \varphi = \{1\}$ is if all relations are included in $\mathcal R$.\\
 Part (3) is obvious because if all symbols used in $G$ are included in $S$, then they will also exist in $\mathcal G$ (excluding those that are identity in $\mathcal G$, but they, obviously, wouldn't be present in $G$ either) and thus there would always be atleast one pre-image associated with every element of $G$, in $\mathcal G$.
 \end{proof}
-
+\textbf {\textsc {7.11 The Todd-Coxter Algorithm}}
+\par
+This seemed like the most fascinating part of the chapter when I started and now I'm finally here! So I'll start with describing the requirement for application of the Algorithm, which essentially is, and I quote Artin, ``an amazing method for determining the operation of a finite group $G$ on the set of cosets of a subgroup $H$.''.\\
+Motivation for the algorithm will become clear as we proceed. So here's what we need to know explicitly (This part again is given quite clearly in Artin, but its re-iterated for clarity \& maintaining readability); both $G$ and $H$. $G$ is given as in the previous section in terms of generators \& relations.
+\begin{equation*}
+\begin{array}{lcr}
+G & = & <x_{1},.\,.\,.\,,x_{m}|r_{1},.\,.\,.\,,r_{k}>
+\end{array}
+\end{equation*}
+$H$ is given explicitly by a set of words in the free group $\mathcal F$, whose images in $G$ generate the subgroup, as
+\begin{equation*}
+\{h_{1},.\,.\,.\,,h_{s}\}
+\end{equation*}
+\par
+Recall the fact that composition of permutations is read opposite to the way a permutation itself is read. To fix this issue (which will improve readability of the tables used by the algorithm to compute), we define the operation of $G$ on the set of cosets of $H$ by \emph {right multiplication}, viz. right cosets. Thus now we read a permutation like so.
+\begin{equation*}
+\begin{array}{cccc}
+\text{\small first do this} & & \text{\small then this}\\
+(234) & . & (123) & = (12)(34)
+\end{array}
+\end{equation*}
+It's now time to define a set of mysterious rules (I'll omit the examples as they are very clear in Artin) that suffice for determining the operation of $G$ on the right cosets.\\
+ \\
+\textsc{Rules 7.11.3}
+\begin{enumerate}
+\item The operation of each generator is a permutation.
+\item The relations operate trivially: they fix every coset.
+\item The generators of $H$ fix the coset $[H]$.
+\item The operation is transitive.
+\end{enumerate}
+Let's figure why these must hold. We begin with the first.
+\begin{proof}
+The generators, following form the discussion are, $<x_{1},\,.\,.\,.\,,x_{m}>$. Let $C$ be an arbitrary coset, represented by $cH$, where $c \in G$. Now if we operate the coset with any of the generators, say $x_{n}$ with $n \leq m$, we get $x_{m}cH$. Now since $G$ is a group, and both $x_{m}$ and $c \in G$, $x_{m}c=c'(\text{say}) \in G$. So $cH$ is sent to the coset $c'H=x_{m}cH$. We can now define a bijective map from the set of cosets to itself (since the coset $C$ is arbitrary), viz. show that the operation is a permutation. The map is multiplication by $x_{m}$ and its bijective because its inverse is multiplication by $x_{m}^{-1}$.
+\end{proof}
+Second is obvious, since relations evaluate to identity in $G$.\\
+Third is also obvious, for the coset $[H] = h$ s.t. $h \in H$. Multiplication by generator of $H$ with any such $h$ still means $h \in H$.\\
+Fourth is again obvious, because if we fix a coset, say $[H]$, and operate it with all elements in $G$, we will generate the set of all cosets. That creates one orbit. To show that there's only one orbit, we simply observe the fact that operating by any element $g \in G$ with an arbitrary coset $cH$ where $c \in G$, we get $gcH$ and by definition of a group, $gc \in G$, thus the new coset belongs to the same orbit.
 \vspace{500pt}
 \hrule
 \vspace{12pt}
